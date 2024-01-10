@@ -10,18 +10,18 @@
 
 </div>
 
-### Hi there 👋
+ [### Hi there 👋]: #
 </div>
 
-🧑‍💻 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and learning Data Engineer.
+I am a Data Scientist and Data Engineer.
 
-- :telescope: I’m working as a Data Scientist with Time Series using traditional algorithms as well applying deep learning models.
+- I’m working as a Data Scientist with Time Series using traditional algorithms as well applying deep learning models.
 
-- :seedling: Exploring new Statistical packages and Cloud Services.
+- Exploring new Statistical packages and Cloud Services.
 
+- Check my procjets below
 
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-20353a200/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-gus-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-santos-20353a200/)
 
  ### :hammer_and_wrench: Languages and Tools :
 
