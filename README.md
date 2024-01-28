@@ -1,5 +1,5 @@
 
-
+<!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -12,8 +12,8 @@
 
  [### Hi there 👋]: #
 </div>
-
-I am a Data Scientist and Data Engineer.
+-->
+I am a Data Scientist and Data Engineer with experience as Data Analyst
 
 - I’m working as a Data Scientist with Time Series using traditional algorithms as well applying deep learning models.
 
