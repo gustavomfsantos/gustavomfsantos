@@ -13,7 +13,7 @@
  [### Hi there 👋]: #
 </div>
 -->
-I am a Data Scientist and Data Engineer with experience as Data Analyst
+I am a Data Scientist and Data Engineer knowledge and experience in Data and ML pipelines.
 
 - I’m working as a Data Scientist with Time Series using traditional algorithms as well applying deep learning models.
 
