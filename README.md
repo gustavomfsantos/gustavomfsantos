@@ -31,6 +31,6 @@ I am a Data Scientist and Data Engineer knowledge and experience in Data and ML 
           
           
           
-          
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomfsantos)](https://github.com/gustavomfsantos/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomfsantos&layout=compact)
+
