@@ -8,6 +8,13 @@ Here I showcase some of my personal projects
 
 ---
 
+### [Brasilia Listings Estimator Tool](https://github.com/gustavomfsantos/Wimoveis_project.git) :airplane:
+The Brasilia Apartment Price Estimation Project aims to estimate fair prices for apartments in Brasilia using market data collected from the local listing website Wimoveis. By scraping data, performing data engineering, and fitting an elastic net model, this project provides insights into the factors influencing apartment prices in Brasilia and offers an inference tool for estimating prices based on selected features.
+  - ETL and modelling done in order to build a tool focused in statistical inference
+  - Streamlit was used to build a interactive tool to estimate Apartament prices based on given features
+
+---
+
 ### [Nixtla Hierarchical Forecasting](https://github.com/gustavomfsantos/hierarchical_forecast.git) :airplane:
 Nixtla is a Python package that introduces a novel approach to time series forecasting called Hierarchical Forecasting. This approach involves predicting time series at multiple aggregation levels and subsequently reconciling these forecasts to generate accurate predictions at higher levels. This project is a first try at the package with Real World Data, using Brazilian Tourism Oficial Data.
   - Hierarchical Forecasting: Predict time series at various aggregation levels.
