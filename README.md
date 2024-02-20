@@ -8,7 +8,7 @@ Here I showcase some of my personal projects
 
 ---
 
-### [Brasilia Listings Estimator Tool](https://github.com/gustavomfsantos/Wimoveis_project.git) 🏠🏚️🏘️:
+### [Brasilia Listings Estimator Tool](https://github.com/gustavomfsantos/Wimoveis_project.git) 🏠🏚️🏘️
 The Brasilia Apartment Price Estimation Project aims to estimate fair prices for apartments in Brasilia using market data collected from the local listing website Wimoveis. By scraping data, performing data engineering, and fitting an elastic net model, this project provides insights into the factors influencing apartment prices in Brasilia and offers an inference tool for estimating prices based on selected features.
   - ETL and modelling done in order to build a tool focused in statistical inference
   - Streamlit was used to build a interactive tool to estimate Apartament prices based on given features
