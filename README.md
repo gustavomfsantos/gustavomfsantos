@@ -2,7 +2,7 @@
 
 Hi there! 👋 I'm Gustavo Santos!
 
-I'm a Data Scientist with over 3 years of experience in transforming complex datasets into actionable insights using both supervised and unsupervised ML techniques. My proficiency extends to Cloud and Databricks for ML End to End projects.
+I'm a Data Scientist with over 4 years of experience in transforming complex datasets into actionable insights using both supervised and unsupervised ML techniques. My proficiency extends to Cloud and Databricks for ML End to End projects.
 
 Here I showcase some of my personal projects
 
